@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv
+
+
+# Dataset
+data/
+
+# Generated outputs
+outputs/
+wandb/
+models/segformer-b2-ade-512-512/
+
+# Local notes
+brainstorm/
+
+# LLMs
+.agents/
+.codex/
+.claude/
