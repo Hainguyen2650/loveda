@@ -17,7 +17,8 @@ wheels/
 data/
 
 # Generated outputs
-outputs/
+outputs/checkpoints
+outputs/vast
 wandb/
 models/segformer-b2-ade-512-512/
 
@@ -28,3 +29,8 @@ brainstorm/
 .agents/
 .codex/
 .claude/
+
+
+.cache/
+cloud/
+models/

@@ -1,0 +1,11 @@
+split,domain,sample_id,image_path,image_height,image_width,total_pixels,black_pixels,black_ratio,rows_with_black,cols_with_black,top_row,bottom_row,left_col,right_col,touches_top,touches_bottom,touches_left,touches_right
+Test,Rural,4418,/mnt/e/computer vision/data/LoveDA/Test/Rural/images_png/4418.png,1024,1024,1048576,0,0.0,0,0,,,,,False,False,False,False
+Train,Urban,2278,/mnt/e/computer vision/data/LoveDA/Train/Urban/images_png/2278.png,1024,1024,1048576,290507,0.27704906463623047,1024,298,0,1023,726,1023,True,True,False,True
+Train,Urban,1570,/mnt/e/computer vision/data/LoveDA/Train/Urban/images_png/1570.png,1024,1024,1048576,0,0.0,0,0,,,,,False,False,False,False
+Train,Rural,757,/mnt/e/computer vision/data/LoveDA/Train/Rural/images_png/757.png,1024,1024,1048576,0,0.0,0,0,,,,,False,False,False,False
+Train,Rural,534,/mnt/e/computer vision/data/LoveDA/Train/Rural/images_png/534.png,1024,1024,1048576,0,0.0,0,0,,,,,False,False,False,False
+Train,Rural,374,/mnt/e/computer vision/data/LoveDA/Train/Rural/images_png/374.png,1024,1024,1048576,0,0.0,0,0,,,,,False,False,False,False
+Train,Urban,2509,/mnt/e/computer vision/data/LoveDA/Train/Urban/images_png/2509.png,1024,1024,1048576,0,0.0,0,0,,,,,False,False,False,False
+Train,Urban,2205,/mnt/e/computer vision/data/LoveDA/Train/Urban/images_png/2205.png,1024,1024,1048576,0,0.0,0,0,,,,,False,False,False,False
+Test,Rural,4723,/mnt/e/computer vision/data/LoveDA/Test/Rural/images_png/4723.png,1024,1024,1048576,31506,0.030046463012695312,45,1024,979,1023,0,1023,False,True,True,True
+Test,Urban,5443,/mnt/e/computer vision/data/LoveDA/Test/Urban/images_png/5443.png,1024,1024,1048576,0,0.0,0,0,,,,,False,False,False,False

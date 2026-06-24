@@ -1,0 +1,3 @@
+metric,value
+exact_duplicate_pairs,0
+near_duplicate_pairs_hamming_le_4,51

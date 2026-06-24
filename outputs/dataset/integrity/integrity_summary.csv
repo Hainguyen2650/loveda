@@ -1,0 +1,7 @@
+split,domain,samples,image_read_ok,mask_present,mask_read_ok,size_match_ok,unexpected_mask_value_files
+Test,Rural,909,909,0,909,909,0
+Test,Urban,734,734,0,734,734,0
+Train,Rural,1235,1235,1235,1235,1235,0
+Train,Urban,975,975,975,975,975,0
+Val,Rural,936,936,936,936,936,0
+Val,Urban,593,593,593,593,593,0

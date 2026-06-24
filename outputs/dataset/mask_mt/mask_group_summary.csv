@@ -1,0 +1,5 @@
+split,domain,sample_count,pixel_count
+Train,Urban,975,1022361600
+Train,Rural,1235,1294991360
+Val,Urban,593,621805568
+Val,Rural,936,981467136

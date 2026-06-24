@@ -1,0 +1,21 @@
+split,domain,sample_id,reason,image_path,mask_path
+Train,Urban,1372,rgb_outlier,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/1372.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/1372.png
+Train,Urban,1414,rgb_outlier,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/1414.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/1414.png
+Train,Urban,2152,rgb_outlier,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/2152.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/2152.png
+Train,Urban,1598,rgb_outlier,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/1598.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/1598.png
+Train,Urban,2082,high_background_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/2082.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/2082.png
+Train,Urban,2300,high_road_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/2300.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/2300.png
+Train,Urban,2272,high_water_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/2272.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/2272.png
+Train,Urban,1691,high_barren_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/1691.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/1691.png
+Train,Urban,1794,high_forest_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/1794.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/1794.png
+Train,Urban,1978,high_agriculture_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/images_png/1978.png,/mnt/e/Computer Vision/data/LoveDA/Train/Urban/masks_png/1978.png
+Train,Rural,33,rgb_outlier,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/33.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/33.png
+Train,Rural,67,rgb_outlier,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/67.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/67.png
+Train,Rural,614,rgb_outlier,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/614.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/614.png
+Train,Rural,736,rgb_outlier,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/736.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/736.png
+Train,Rural,179,high_background_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/179.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/179.png
+Train,Rural,679,high_building_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/679.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/679.png
+Train,Rural,1269,high_road_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/1269.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/1269.png
+Train,Rural,534,high_water_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/534.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/534.png
+Train,Rural,1023,high_forest_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/1023.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/1023.png
+Train,Rural,214,high_agriculture_ratio,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/images_png/214.png,/mnt/e/Computer Vision/data/LoveDA/Train/Rural/masks_png/214.png
